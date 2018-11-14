@@ -1,8 +1,8 @@
 /*
 ** Fichero: servidor.c
 ** Autores:
-** David Flores Barbero DNI 70907575R
-** Francisco Blázquez Matías DNI 70919093L
+** David Flores Barbero
+** Francisco Blázquez Matías
 ** Usuario: i0907575
 */
 
